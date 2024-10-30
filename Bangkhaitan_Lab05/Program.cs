@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bangkhaitan_Lab05
+namespace CTDLGT_BT5
 {
     internal class Program
     {
